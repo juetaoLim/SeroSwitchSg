@@ -20,4 +20,4 @@ We found that on the population level: (1) across-serotype interactions on the p
 with a one time increase in any other serotype associated to long run decreases in the serotype of interest (Range: 0.5 -- 2.5 years) 
 (2) Over 38.7% of dengue cases of any serotype were associated to across-serotype interactions.
 The findings in this paper will substantially impact public health policy interventions with respect to dengue. 
-}
+
